@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductMehrshadV2", "ProductMehrshadV2\ProductMehrshadV2.csproj", "{B402CB26-1095-4829-9AE8-D37047FF74BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLeyer", "DataLeyer\DataLeyer.csproj", "{9E445580-39EA-4F81-86EA-527524F1EB52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceLeyer", "ServiceLeyer\ServiceLeyer.csproj", "{34796F4D-8483-4D60-8C41-A52AD28091C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B402CB26-1095-4829-9AE8-D37047FF74BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B402CB26-1095-4829-9AE8-D37047FF74BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B402CB26-1095-4829-9AE8-D37047FF74BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B402CB26-1095-4829-9AE8-D37047FF74BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E445580-39EA-4F81-86EA-527524F1EB52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E445580-39EA-4F81-86EA-527524F1EB52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E445580-39EA-4F81-86EA-527524F1EB52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E445580-39EA-4F81-86EA-527524F1EB52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34796F4D-8483-4D60-8C41-A52AD28091C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34796F4D-8483-4D60-8C41-A52AD28091C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34796F4D-8483-4D60-8C41-A52AD28091C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34796F4D-8483-4D60-8C41-A52AD28091C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
